@@ -32,8 +32,17 @@ ul{
 .inner{
     display: flex;
     justify-content:space-between;
-    margin-top: 40px;
-    
+    margin: 90px;
+    align-items: center;    
+}
+.innersec{
+    padding: 70px;
+    background-color: red;
+    display: block; 
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+
 }
 .innerheading{
     display: flex;

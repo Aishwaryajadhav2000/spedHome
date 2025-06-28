@@ -1,0 +1,59 @@
+.outer{
+    /* border: 1px solid black; */
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: rgba(6, 6, 128, 0.821);
+   margin-top: 10px;
+}
+.ptag{
+    display: flex;
+}
+h1{
+    font-weight: bolder;
+    font-size:50px;
+}
+.form{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    section{
+        margin-top: 5px;
+    }
+   
+}
+.formsec{
+
+}
+label{
+    display: block;
+    margin-top: 15px;
+}
+input{
+    border: 1px solid black;
+    display: block;
+    width: 100%;
+    border-radius: 3px;
+    box-shadow: 1px 2px black;
+}
+.formart{
+    display: flex;
+}
+.phnno{
+    margin-left: 5px;
+}
+.msg{
+    border: 1px solid black;
+    height: 80%;
+}
+.submitbtn{
+    background-color: orange;
+    margin-top: 5px;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+.bottomart{
+    background-color: palevioletred;
+}
